@@ -1,5 +1,5 @@
 # aici e o chestie voodoo ????? 
-# prima a scriptului de mai jos nu functioneaza
+# prima parte a scriptului de mai jos nu functioneaza
 
 # puts "Completeaza profilul tau:"
 print "Varsta: "
